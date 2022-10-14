@@ -1,0 +1,21 @@
+E:\Documents\Work\College\HNC\Visual Studio\Assignment 3\bin\Debug\Assignment 3.exe.config
+E:\Documents\Work\College\HNC\Visual Studio\Assignment 3\bin\Debug\Assignment 3.exe
+E:\Documents\Work\College\HNC\Visual Studio\Assignment 3\bin\Debug\Assignment 3.pdb
+E:\Documents\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.csprojAssemblyReference.cache
+E:\Documents\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment_3.Form1.resources
+E:\Documents\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment_3.Properties.Resources.resources
+E:\Documents\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.csproj.GenerateResource.cache
+E:\Documents\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.csproj.CoreCompileInputs.cache
+E:\Documents\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.exe
+E:\Documents\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.pdb
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\bin\Debug\Assignment 3.exe.config
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\bin\Debug\Assignment 3.exe
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\bin\Debug\Assignment 3.pdb
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.csproj.AssemblyReference.cache
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment_3.Form1.resources
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment_3.Properties.Resources.resources
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.csproj.GenerateResource.cache
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.exe
+C:\Users\heath\Documents\Docs #2\Work\College\HNC\Visual Studio\Assignment 3\obj\Debug\Assignment 3.pdb
